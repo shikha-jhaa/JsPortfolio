@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/BG3.png";
+import image from "../images/github.png";
 
 const imageAltText = "Snippet from my Github Account";
 
@@ -31,29 +31,29 @@ const imageAltText = "Snippet from my Github Account";
  */
 const projectList = [
   {
-    title: "Learning Management System",
+    title: "Tic-Tac-Toe",
     description:
-      "Developed a Learning Management System for a university project. It includes features like course management, user management, and quiz management.",
-    url: "https://github.com/Yashasvi-30/Learning-Management-System-",
+      "Developed a Tic-Tac-Toe game and think some logic behind the scene it helps to increase thinking power. ",
+    url: "https://github.com/shikha-jhaa/TIC-TAC-TOC-game",
   },
   {
-    title: "Myntra Clone",
+    title: "Landing page",
     description:
-      "Developed a Myntra Clone for a university project. It includes features like product management, user management, and cart management.",
-    url: "https://github.com/Yashasvi-30/MyMyntraClone",
+      "Developed a landing page for a experience project. It includes features like food orfdering management, and cart management.",
+    url: "https://reactproject-landingpage.netlify.app/",
   },
   {
-    title: "Amazon Clone",
+    title: "Calculator app",
     description:
-      " Developed an Amazon Clone for a university project. It includes features like product management, user management, and cart management.",
-    url: "https://github.com/Yashasvi-30/AmazonClone",
+      " Developed an calculator app features to include mathematics operations and fast calculating features.",
+    url: "https://reactproject-calculator-app.netlify.app/",
   },
-  {
-    title: "Supermarket Management System",
-    description:
-      "Developed a Supermarket Management System for a university project. It includes features like product management, user management, and cart management.",
-    url: "https://github.com/Yashasvi-30/Supermarket-JAVA-Proj",
-  },
+//   {
+//     title: "",
+//     description:
+//       "Developed a Supermarket Management System for a university project. It includes features like product management, user management, and cart management.",
+//     url: "https://github.com/Yashasvi-30/Supermarket-JAVA-Proj",
+//   },
 ];
 
 const Portfolio = () => {

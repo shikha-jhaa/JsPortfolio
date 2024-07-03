@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/BG2.avif";
+import image from "../images/BG2.jpeg";
 
 const imageAltText = "Background image";
 
@@ -24,7 +24,7 @@ const imageAltText = "Background image";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  " I am a student at University of Petroleum and Energy Studies, Dehradun. I am pursuing B.Tech in Computer Science and Engineering. I am a UI/UX enthusiast and a passionate learner. I am always looking for new opportunities to learn and grow.";
+  " I am a student at University of Mangalayatan university aligarh . I am pursuing BCA in Computer application . I am a UI/UX enthusiast and a passionate learner. I am always looking for new opportunities to learn and grow.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -34,9 +34,8 @@ const skillsList = [
   "Web design",
   "User experience",
   "Web Development",
-  "Content creation",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Frontend Development",
+  "React Developer ",
 ];
 
 /**

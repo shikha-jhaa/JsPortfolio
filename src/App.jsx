@@ -16,7 +16,7 @@ import "./styles.css";
 
 /**
  * This object represents your information. The project is set so that you
- * only need to update these here, and values are passed a properties to the
+ * only need to update these here, and values are passed as properties to the
  * components that need that information.
  *
  * Update the values below with your information.
@@ -24,14 +24,14 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Yashasvi Gupta",
-  title: "Software Developer and Content Creator",
-  email: "yashasvi30gupta@gmail.com",
-  gitHub: "Yashasvi-30",
-  instagram: "Yashasvi._30",
-  linkedIn: "yashasvii",
+  name: "Shikha Jha",
+  title: "Frontend Developer & Software Developer",
+  email: "shikhajha22@navgurukul.org",
+  gitHub: "https://github.com/shikha-jhaa",
+  instagram: "",
+  linkedIn: "www.linkedin.com/in/shikha-jha-11b06b2b9",
   medium: "",
-  twitter: "YashasviiG",
+  twitter: "",
   youTube: "",
 };
 
